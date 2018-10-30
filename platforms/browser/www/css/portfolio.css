@@ -1,0 +1,47 @@
+#painel {
+    padding-left: 0px; 
+    padding-right: 0px;
+}
+#divinicio{ 
+    margin-bottom: 25px;
+}
+#divcv{ 
+    margin-bottom: 25px;
+}
+#divprojetos{ 
+    margin-bottom: 25px;
+}
+#divcontato{ 
+    margin-bottom: 25px;
+}
+.img-profile{
+    border: 1px #ddd solid;
+}
+.img-cv {
+    border: 1px #ddd solid;
+}
+.p-no-marging { 
+    margin: 0px;
+}
+.lista-recuada{
+    padding-left: 10px;
+    list-style-type:none;
+}
+hr {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.div-bordered {
+    border: 1px #ddd solid;
+    padding: 20px;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%; 
+    text-align: left;
+    padding:10px;
+    background-color:#7F7F7F;
+    color: white;
+    font-size: 12px;
+} 
